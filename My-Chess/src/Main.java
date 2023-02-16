@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-        System.out.println("Welcome to CHESS23. Enter \"GUI\" to play on a Graphical User Interface.");
+        System.out.println("Enter \"GUI\" to play on a Graphical User Interface.");
 
         Pieces pieces = new Pieces();
 
